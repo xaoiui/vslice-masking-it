@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="him.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="him0000" x="996" y="0" width="996" height="952" frameX="2" frameY="2" frameWidth="992" frameHeight="948"/>
+	<SubTexture name="himaethos0000" x="0" y="0" width="996" height="952" frameX="2" frameY="2" frameWidth="992" frameHeight="948"/>
+</TextureAtlas>
